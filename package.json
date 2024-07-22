@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "next": "14.2.4",
+    "react": "^18.3.1",
+    "react-custom-roulette": "^1.4.1",
+    "react-dom": "^18.2.0",
+    "react-spinning-wheel": "^2.1.0",
+    "react-wheel-of-prizes": "^1.1.0"
   },
   "devDependencies": {
     "postcss": "^8",
